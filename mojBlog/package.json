@@ -1,0 +1,11 @@
+{
+  "name": "blog_dklucznik",
+  "version": "1.0.0",
+  "description": "projekt aplikacji webowej blog_js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "damian klucznik",
+  "license": "ISC"
+}

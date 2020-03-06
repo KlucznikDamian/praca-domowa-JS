@@ -1,0 +1,96 @@
+body {
+  background-color: #1b0202;
+  font-family: Verdana;
+  font-size: 15px;
+}
+#container {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#logo {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
+#menu {
+  background-color: #440b0b;
+  width: 990px;
+  min-height: 20px;
+  padding: 5px;
+}
+#currentDate {
+  float: left;
+  min-width: 200px;
+  min-height: 25px;
+  text-align: center;
+  color: white;
+}
+#nav {
+  float: left;
+  background-color: #686666;
+  font-size: 10px;
+  width: 125px;
+  min-height: 620px;
+  padding: 10px;
+  padding-top: 20px;
+}
+#content {
+  float: left;
+  padding: 20px;
+  width: 835px;
+  min-height: 630px;
+  padding: 10px;
+  background-color: lightgray;
+}
+#footer {
+  clear: both;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+.pole {
+  min-width: 195px;
+  min-height: 25px;
+  margin: 200px;
+  text-align: center;
+  color: white;
+}
+.option {
+  float: left;
+  min-width: 195px;
+  min-height: 25px;
+  border-right: 1px solid;
+  text-align: center;
+  color: white;
+}
+.option:hover {
+  background-color: black;
+  cursor: pointer;
+}
+.optionL {
+  padding-bottom: 25px;
+  border-bottom: 1px dotted #444444;
+}
+.optionL:hover {
+  cursor: pointer;
+  font-weight: bold;
+}
+a:link {
+  float: left;
+  min-width: 195px;
+  min-height: 25px;
+  border-right: 1px solid;
+  text-align: center;
+  color: white;
+}
+a:visited {
+  float: left;
+  min-width: 195px;
+  min-height: 25px;
+  border-right: 1px solid;
+  text-align: center;
+  color: white;
+}
